@@ -2,6 +2,7 @@
 
 ## 실험 모델
 EfficientNet-b#~
+EfficientNetV2 (TBA 12/05)
 
 ## 실험 결과
 |Model|n_epochs|batch_size|crop_size|Accuracy(%)|
