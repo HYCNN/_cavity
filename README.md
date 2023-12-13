@@ -26,6 +26,6 @@ EfficientNetV2-m (TBA 12/06)
 |--|--|
 |RD4AD|62.78|
 |ViTB-16-224|78.93|
-|DINOv2-base-finetuned|80.04|
 |Mobilenet_v2-finetuned|79.23|
+|DINOv2-base-finetuned|80.04|
 |EfficientNet-b4|95.20|
