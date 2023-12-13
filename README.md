@@ -19,4 +19,13 @@ EfficientNetV2-m (TBA 12/06)
 
 |Model|n_epochs|batch_size|img_size|Accuracy(%)|
 |--|--|--|--|--|
-|EfficientNet-b3|28|16|340|88.00|
+|RD4AD|200|64|256|62.78|
+
+
+|Model|Accuracy(%)|
+|--|--|--|--|--|
+|RD4AD|62.78|
+|ViTB-16-224|78.93|
+|DINOv2-base-finetuned|80.04|
+|Mobilenet_v2-finetuned|79.23|
+|EfficientNet-b4|95.20|
